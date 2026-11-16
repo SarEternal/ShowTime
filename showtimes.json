@@ -1,0 +1,10 @@
+{"updated":"2026-11-16T20:00:00+00:00","cinemas":{
+"jaroslaw":{"name":"Kino na Biegunach","city":"Jarosław","shows":[
+{"id":"61903","date":"2026-11-17","time":"10:00","title":"EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA","lang":"DUB","min":116,"room":5,"free":115,"total":157,"url":"http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61903&typetran=0"},
+{"id":"61904","date":"2026-11-17","time":"10:00","title":"KOT PROT","lang":"DUB","min":107,"url":"http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61904&typetran=0"},
+{"id":"61908","date":"2026-11-17","time":"12:15","title":"LALKA","lang":"PL","min":165,"url":"http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61908&typetran=0"}]},
+"rzeszow":{"name":"Multikino Millennium Hall","city":"Rzeszów","shows":[
+{"date":"2026-11-16","time":"09:00","title":"Ebenezer Scrooge. Opowieść wigilijna","lang":"DUB","url":"https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/97798"},
+{"date":"2026-11-16","time":"11:50","title":"Ebenezer Scrooge. Opowieść wigilijna","lang":"DUB","url":"https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/97797"},
+{"date":"2026-11-16","time":"10:05","title":"Kot Prot","lang":"DUB","url":"https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/97919"},
+{"date":"2026-11-16","time":"21:10","title":"Resident Evil","lang":"NAP","url":"https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002758/97834"}]}}}
