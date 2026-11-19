@@ -1,250 +1,10 @@
 {
-"updated": "2026-11-19T10:34:38+00:00",
+"updated": "2026-11-19T20:51:03+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
 "city": "Jarosław",
 "shows": [
-{
-"id": "61958",
-"date": "2026-11-19",
-"time": "12:15",
-"title": "LALKA",
-"lang": "PL",
-"min": 165,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61958&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "61959",
-"date": "2026-11-19",
-"time": "12:20",
-"title": "NASZA REWOLUCJA",
-"lang": "ORYG",
-"min": 126,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61959&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "61960",
-"date": "2026-11-19",
-"time": "12:30",
-"title": "LEGENDARNI",
-"lang": "DUB",
-"min": 93,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61960&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "61961",
-"date": "2026-11-19",
-"time": "12:40",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61961&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "61962",
-"date": "2026-11-19",
-"time": "13:00",
-"title": "BARANEK SHAUN I KUDŁATA BESTIA",
-"lang": "DUB",
-"min": 80,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61962&typetran=0",
-"room": 1,
-"free": 164,
-"total": 164
-},
-{
-"id": "61963",
-"date": "2026-11-19",
-"time": "14:45",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61963&typetran=0",
-"room": 5,
-"free": 155,
-"total": 157
-},
-{
-"id": "61964",
-"date": "2026-11-19",
-"time": "14:50",
-"title": "PRZEPIS NA ŚWIĘTA",
-"lang": "ORYG",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61964&typetran=0",
-"room": 1,
-"free": 164,
-"total": 164
-},
-{
-"id": "61965",
-"date": "2026-11-19",
-"time": "15:00",
-"title": "JAK OBRABOWAĆ BANK",
-"lang": "NAP",
-"min": 122,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61965&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "61966",
-"date": "2026-11-19",
-"time": "15:10",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61966&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "61967",
-"date": "2026-11-19",
-"time": "15:30",
-"title": "NIESAMOWITE PRZYGODY SKARPETEK 4. DO ROBOTY!",
-"lang": "ORYG",
-"min": 55,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61967&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "61968",
-"date": "2026-11-19",
-"time": "17:00",
-"title": "ZOBACZYSZ WSZYSTKO",
-"lang": "NAP",
-"min": 174,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61968&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "61969",
-"date": "2026-11-19",
-"time": "17:10",
-"title": "PRZEPIS NA ŚWIĘTA",
-"lang": "ORYG",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61969&typetran=0",
-"room": 1,
-"free": 164,
-"total": 164
-},
-{
-"id": "61970",
-"date": "2026-11-19",
-"time": "17:15",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61970&typetran=0",
-"room": 5,
-"free": 152,
-"total": 157
-},
-{
-"id": "61971",
-"date": "2026-11-19",
-"time": "17:30",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61971&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "61972",
-"date": "2026-11-19",
-"time": "17:40",
-"title": "NASZA REWOLUCJA",
-"lang": "ORYG",
-"min": 126,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61972&typetran=0",
-"room": 2,
-"free": 118,
-"total": 142
-},
-{
-"id": "61973",
-"date": "2026-11-19",
-"time": "19:30",
-"title": "PRZEPIS NA ŚWIĘTA",
-"lang": "ORYG",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61973&typetran=0",
-"room": 1,
-"free": 164,
-"total": 164
-},
-{
-"id": "61974",
-"date": "2026-11-19",
-"time": "19:45",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "NAP",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61974&typetran=0",
-"room": 5,
-"free": 155,
-"total": 157
-},
-{
-"id": "61975",
-"date": "2026-11-19",
-"time": "20:00",
-"title": "JAK OBRABOWAĆ BANK",
-"lang": "NAP",
-"min": 122,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61975&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "61976",
-"date": "2026-11-19",
-"time": "20:20",
-"title": "NASZA REWOLUCJA",
-"lang": "ORYG",
-"min": 126,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61976&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "61977",
-"date": "2026-11-19",
-"time": "20:30",
-"title": "CLAYFACE",
-"lang": "NAP",
-"min": 109,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61977&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
 {
 "id": "62012",
 "date": "2026-11-20",
@@ -290,7 +50,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61993&typetran=0",
 "room": 1,
-"free": 160,
+"free": 158,
 "total": 164
 },
 {
@@ -410,7 +170,7 @@
 "min": 105,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61999&typetran=0",
 "room": 2,
-"free": 122,
+"free": 117,
 "total": 142
 },
 {
@@ -422,7 +182,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61995&typetran=0",
 "room": 1,
-"free": 158,
+"free": 149,
 "total": 164
 },
 {
@@ -470,7 +230,7 @@
 "min": 105,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62010&typetran=0",
 "room": 4,
-"free": 140,
+"free": 134,
 "total": 142
 },
 {
@@ -506,7 +266,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61996&typetran=0",
 "room": 1,
-"free": 117,
+"free": 113,
 "total": 164
 },
 {
@@ -698,7 +458,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62019&typetran=0",
 "room": 1,
-"free": 154,
+"free": 152,
 "total": 164
 },
 {
@@ -782,7 +542,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62020&typetran=0",
 "room": 1,
-"free": 150,
+"free": 138,
 "total": 164
 },
 {
@@ -794,7 +554,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62024&typetran=0",
 "room": 2,
-"free": 118,
+"free": 116,
 "total": 142
 },
 {
@@ -854,7 +614,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62043&typetran=0",
 "room": 1,
-"free": 164,
+"free": 162,
 "total": 164
 },
 {
@@ -986,7 +746,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62054&typetran=0",
 "room": 1,
-"free": 162,
+"free": 160,
 "total": 164
 },
 {
@@ -1010,7 +770,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62056&typetran=0",
 "room": 5,
-"free": 154,
+"free": 152,
 "total": 157
 },
 {
@@ -1886,7 +1646,7 @@
 "min": 126,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62119&typetran=0",
 "room": 2,
-"free": 122,
+"free": 120,
 "total": 142
 },
 {
@@ -2138,7 +1898,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62138&typetran=0",
 "room": 1,
-"free": 164,
+"free": 161,
 "total": 164
 },
 {
@@ -2318,7 +2078,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61984&typetran=0",
 "room": 2,
-"free": 140,
+"free": 138,
 "total": 142
 },
 {
@@ -2354,7 +2114,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61987&typetran=0",
 "room": 2,
-"free": 133,
+"free": 131,
 "total": 142
 },
 {
@@ -2366,7 +2126,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61988&typetran=0",
 "room": 1,
-"free": 155,
+"free": 153,
 "total": 164
 },
 {
@@ -2747,6 +2507,13 @@
 },
 {
 "date": "2026-11-20",
+"time": "19:50",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98424"
+},
+{
+"date": "2026-11-20",
 "time": "20:10",
 "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
 "lang": "NAP",
@@ -2859,27 +2626,6 @@
 },
 {
 "date": "2026-11-20",
-"time": "17:00",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98340"
-},
-{
-"date": "2026-11-20",
-"time": "19:50",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98343"
-},
-{
-"date": "2026-11-20",
-"time": "20:55",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98249"
-},
-{
-"date": "2026-11-20",
 "time": "14:10",
 "title": "Jestem Rocky",
 "lang": "NAP",
@@ -2898,6 +2644,20 @@
 "title": "Jestem Rocky",
 "lang": "NAP",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98307"
+},
+{
+"date": "2026-11-20",
+"time": "17:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98340"
+},
+{
+"date": "2026-11-20",
+"time": "20:55",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98249"
 },
 {
 "date": "2026-11-20",
@@ -3062,6 +2822,13 @@
 },
 {
 "date": "2026-11-21",
+"time": "20:40",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98425"
+},
+{
+"date": "2026-11-21",
 "time": "10:40",
 "title": "Struś Pędziwiatr i zemsta Kojota",
 "lang": "DUB",
@@ -3111,27 +2878,6 @@
 },
 {
 "date": "2026-11-21",
-"time": "17:00",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98347"
-},
-{
-"date": "2026-11-21",
-"time": "19:50",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98344"
-},
-{
-"date": "2026-11-21",
-"time": "20:40",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98315"
-},
-{
-"date": "2026-11-21",
 "time": "14:20",
 "title": "Przepis na święta",
 "lang": "",
@@ -3143,6 +2889,20 @@
 "title": "Przepis na święta",
 "lang": "",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98169"
+},
+{
+"date": "2026-11-21",
+"time": "17:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98347"
+},
+{
+"date": "2026-11-21",
+"time": "19:50",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98344"
 },
 {
 "date": "2026-11-21",
@@ -3731,6 +3491,13 @@
 "title": "Przepis na święta",
 "lang": "",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98277"
+},
+{
+"date": "2026-11-23",
+"time": "09:30",
+"title": "Niesamowite przygody skarpetek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002148/98423"
 },
 {
 "date": "2026-11-23",
