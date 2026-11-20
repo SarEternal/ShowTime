@@ -1,130 +1,10 @@
 {
-"updated": "2026-11-20T03:33:42+00:00",
+"updated": "2026-11-20T13:09:58+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
 "city": "Jarosław",
 "shows": [
-{
-"id": "62012",
-"date": "2026-11-20",
-"time": "09:00",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62012&typetran=0",
-"room": 5,
-"free": 136,
-"total": 157
-},
-{
-"id": "62002",
-"date": "2026-11-20",
-"time": "10:00",
-"title": "SUPERMOCNI",
-"lang": "DUB",
-"min": 96,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62002&typetran=0",
-"room": 3,
-"free": 114,
-"total": 130
-},
-{
-"id": "62007",
-"date": "2026-11-20",
-"time": "10:00",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62007&typetran=0",
-"room": 4,
-"free": 115,
-"total": 142
-},
-{
-"id": "61993",
-"date": "2026-11-20",
-"time": "10:15",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61993&typetran=0",
-"room": 1,
-"free": 158,
-"total": 164
-},
-{
-"id": "61997",
-"date": "2026-11-20",
-"time": "10:15",
-"title": "BARANEK SHAUN I KUDŁATA BESTIA",
-"lang": "DUB",
-"min": 80,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61997&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62003",
-"date": "2026-11-20",
-"time": "12:20",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62003&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "61998",
-"date": "2026-11-20",
-"time": "12:30",
-"title": "PRZEPIS NA ŚWIĘTA",
-"lang": "ORYG",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61998&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62008",
-"date": "2026-11-20",
-"time": "12:45",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62008&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "62013",
-"date": "2026-11-20",
-"time": "13:00",
-"title": "NIESAMOWITE PRZYGODY SKARPETEK 4. DO ROBOTY!",
-"lang": "ORYG",
-"min": 55,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62013&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "61994",
-"date": "2026-11-20",
-"time": "13:30",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61994&typetran=0",
-"room": 1,
-"free": 161,
-"total": 164
-},
 {
 "id": "62004",
 "date": "2026-11-20",
@@ -146,7 +26,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62014&typetran=0",
 "room": 5,
-"free": 157,
+"free": 155,
 "total": 157
 },
 {
@@ -194,7 +74,7 @@
 "min": 107,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62005&typetran=0",
 "room": 3,
-"free": 130,
+"free": 127,
 "total": 130
 },
 {
@@ -254,7 +134,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62016&typetran=0",
 "room": 5,
-"free": 157,
+"free": 154,
 "total": 157
 },
 {
@@ -266,7 +146,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61996&typetran=0",
 "room": 1,
-"free": 111,
+"free": 109,
 "total": 164
 },
 {
@@ -542,7 +422,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62020&typetran=0",
 "room": 1,
-"free": 130,
+"free": 121,
 "total": 164
 },
 {
@@ -710,7 +590,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62051&typetran=0",
 "room": 5,
-"free": 157,
+"free": 155,
 "total": 157
 },
 {
@@ -828,7 +708,10 @@
 "title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
 "lang": "NAP",
 "min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62061&typetran=0"
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62061&typetran=0",
+"room": 1,
+"free": 160,
+"total": 164
 },
 {
 "id": "62062",
@@ -2015,7 +1898,7 @@
 "min": 170,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61978&typetran=0",
 "room": 4,
-"free": 140,
+"free": 138,
 "total": 142
 },
 {
