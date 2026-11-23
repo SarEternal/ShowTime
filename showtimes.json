@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T20:49:04+00:00",
+"updated": "2026-11-23T02:56:44+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
@@ -1332,272 +1332,6 @@
 "city": "Rzeszów",
 "shows": [
 {
-"date": "2026-11-22",
-"time": "10:00",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98292"
-},
-{
-"date": "2026-11-22",
-"time": "10:40",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96717"
-},
-{
-"date": "2026-11-22",
-"time": "12:10",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96725"
-},
-{
-"date": "2026-11-22",
-"time": "13:20",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98291"
-},
-{
-"date": "2026-11-22",
-"time": "14:00",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96718"
-},
-{
-"date": "2026-11-22",
-"time": "15:35",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96724"
-},
-{
-"date": "2026-11-22",
-"time": "16:40",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98293"
-},
-{
-"date": "2026-11-22",
-"time": "17:30",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96716"
-},
-{
-"date": "2026-11-22",
-"time": "19:00",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96723"
-},
-{
-"date": "2026-11-22",
-"time": "20:10",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/96732"
-},
-{
-"date": "2026-11-22",
-"time": "10:00",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98325"
-},
-{
-"date": "2026-11-22",
-"time": "11:45",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98232"
-},
-{
-"date": "2026-11-22",
-"time": "12:40",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98323"
-},
-{
-"date": "2026-11-22",
-"time": "14:30",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98233"
-},
-{
-"date": "2026-11-22",
-"time": "15:20",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98322"
-},
-{
-"date": "2026-11-22",
-"time": "17:20",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98229"
-},
-{
-"date": "2026-11-22",
-"time": "18:00",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98324"
-},
-{
-"date": "2026-11-22",
-"time": "20:00",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98231"
-},
-{
-"date": "2026-11-22",
-"time": "10:40",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98406"
-},
-{
-"date": "2026-11-22",
-"time": "13:10",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98404"
-},
-{
-"date": "2026-11-22",
-"time": "15:40",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98403"
-},
-{
-"date": "2026-11-22",
-"time": "18:10",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98407"
-},
-{
-"date": "2026-11-22",
-"time": "10:00",
-"title": "Kot Prot",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98266"
-},
-{
-"date": "2026-11-22",
-"time": "12:30",
-"title": "Kot Prot",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98264"
-},
-{
-"date": "2026-11-22",
-"time": "14:40",
-"title": "Kot Prot",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98181"
-},
-{
-"date": "2026-11-22",
-"time": "17:00",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98354"
-},
-{
-"date": "2026-11-22",
-"time": "19:50",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98352"
-},
-{
-"date": "2026-11-22",
-"time": "20:40",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98326"
-},
-{
-"date": "2026-11-22",
-"time": "17:10",
-"title": "Przepis na święta",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98176"
-},
-{
-"date": "2026-11-22",
-"time": "21:10",
-"title": "Przepis na święta",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98267"
-},
-{
-"date": "2026-11-22",
-"time": "10:40",
-"title": "Lalka",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98355"
-},
-{
-"date": "2026-11-22",
-"time": "17:45",
-"title": "Lalka",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98265"
-},
-{
-"date": "2026-11-22",
-"time": "14:10",
-"title": "Jestem Rocky",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98353"
-},
-{
-"date": "2026-11-22",
-"time": "20:35",
-"title": "Jestem Rocky",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98405"
-},
-{
-"date": "2026-11-22",
-"time": "19:40",
-"title": "Zobaczysz wszystko",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002997/98177"
-},
-{
-"date": "2026-11-22",
-"time": "10:10",
-"title": "Niesamowite przygody skarpetek 4: Do roboty!",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002905/98230"
-},
-{
-"date": "2026-11-22",
-"time": "10:05",
-"title": "Baranek Shaun i kudłata bestia",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002733/98376"
-},
-{
-"date": "2026-11-22",
-"time": "20:50",
-"title": "Dziki Koń Dziewięć",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002714/98202"
-},
-{
 "date": "2026-11-23",
 "time": "10:00",
 "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
@@ -2800,6 +2534,48 @@
 "title": "Skrzypek na dachu",
 "lang": "NAP",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003024/97475"
+},
+{
+"date": "2026-11-29",
+"time": "11:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98143"
+},
+{
+"date": "2026-11-29",
+"time": "13:30",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98142"
+},
+{
+"date": "2026-11-29",
+"time": "16:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98141"
+},
+{
+"date": "2026-11-29",
+"time": "18:30",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98140"
+},
+{
+"date": "2026-11-29",
+"time": "17:45",
+"title": "Poznaj swojego teścia",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/97477"
+},
+{
+"date": "2026-11-29",
+"time": "20:15",
+"title": "Poznaj swojego teścia",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98146"
 }
 ]
 }
