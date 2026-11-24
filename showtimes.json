@@ -1,178 +1,10 @@
 {
-"updated": "2026-11-24T02:59:38+00:00",
+"updated": "2026-11-24T14:59:44+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
 "city": "Jarosław",
 "shows": [
-{
-"id": "62097",
-"date": "2026-11-24",
-"time": "10:00",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62097&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62102",
-"date": "2026-11-24",
-"time": "10:00",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62102&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "62107",
-"date": "2026-11-24",
-"time": "10:00",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62107&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "62088",
-"date": "2026-11-24",
-"time": "10:15",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62088&typetran=0",
-"room": 1,
-"free": 164,
-"total": 164
-},
-{
-"id": "62092",
-"date": "2026-11-24",
-"time": "10:15",
-"title": "BARANEK SHAUN I KUDŁATA BESTIA",
-"lang": "DUB",
-"min": 80,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62092&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62098",
-"date": "2026-11-24",
-"time": "12:20",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62098&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62093",
-"date": "2026-11-24",
-"time": "12:30",
-"title": "PRZEPIS NA ŚWIĘTA",
-"lang": "ORYG",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62093&typetran=0",
-"room": 2,
-"free": 97,
-"total": 142
-},
-{
-"id": "62103",
-"date": "2026-11-24",
-"time": "12:45",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62103&typetran=0",
-"room": 4,
-"free": 96,
-"total": 142
-},
-{
-"id": "62108",
-"date": "2026-11-24",
-"time": "13:00",
-"title": "NIESAMOWITE PRZYGODY SKARPETEK 4. DO ROBOTY!",
-"lang": "ORYG",
-"min": 55,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62108&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "62089",
-"date": "2026-11-24",
-"time": "13:30",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62089&typetran=0",
-"room": 1,
-"free": 162,
-"total": 164
-},
-{
-"id": "62099",
-"date": "2026-11-24",
-"time": "14:40",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62099&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62109",
-"date": "2026-11-24",
-"time": "14:45",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62109&typetran=0",
-"room": 5,
-"free": 147,
-"total": 157
-},
-{
-"id": "62094",
-"date": "2026-11-24",
-"time": "14:50",
-"title": "JAK OBRABOWAĆ BANK",
-"lang": "NAP",
-"min": 122,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62094&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62104",
-"date": "2026-11-24",
-"time": "15:30",
-"title": "KPS STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62104&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
 {
 "id": "62090",
 "date": "2026-11-24",
@@ -206,7 +38,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62110&typetran=0",
 "room": 5,
-"free": 155,
+"free": 152,
 "total": 157
 },
 {
@@ -218,7 +50,7 @@
 "min": 126,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62095&typetran=0",
 "room": 2,
-"free": 122,
+"free": 120,
 "total": 142
 },
 {
@@ -266,7 +98,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62091&typetran=0",
 "room": 1,
-"free": 153,
+"free": 151,
 "total": 164
 },
 {
@@ -554,7 +386,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62115&typetran=0",
 "room": 1,
-"free": 160,
+"free": 158,
 "total": 164
 },
 {
@@ -566,7 +398,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62120&typetran=0",
 "room": 2,
-"free": 118,
+"free": 116,
 "total": 142
 },
 {
@@ -734,7 +566,7 @@
 "min": 122,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62152&typetran=0",
 "room": 4,
-"free": 142,
+"free": 140,
 "total": 142
 },
 {
@@ -890,7 +722,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61980&typetran=0",
 "room": 2,
-"free": 140,
+"free": 139,
 "total": 142
 },
 {
@@ -902,7 +734,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61981&typetran=0",
 "room": 2,
-"free": 111,
+"free": 109,
 "total": 142
 },
 {
@@ -914,7 +746,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61982&typetran=0",
 "room": 2,
-"free": 88,
+"free": 79,
 "total": 142
 },
 {
@@ -974,7 +806,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61987&typetran=0",
 "room": 2,
-"free": 131,
+"free": 129,
 "total": 142
 },
 {
@@ -998,7 +830,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61989&typetran=0",
 "room": 2,
-"free": 124,
+"free": 122,
 "total": 142
 },
 {
@@ -1570,13 +1402,6 @@
 },
 {
 "date": "2026-11-26",
-"time": "10:00",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98320"
-},
-{
-"date": "2026-11-26",
 "time": "11:45",
 "title": "Ebenezer Scrooge. Opowieść wigilijna",
 "lang": "NAP",
@@ -1675,17 +1500,10 @@
 },
 {
 "date": "2026-11-26",
-"time": "10:40",
+"time": "10:30",
 "title": "Struś Pędziwiatr i zemsta Kojota",
 "lang": "DUB",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98224"
-},
-{
-"date": "2026-11-26",
-"time": "13:10",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98227"
 },
 {
 "date": "2026-11-26",
@@ -1871,14 +1689,14 @@
 },
 {
 "date": "2026-11-27",
-"time": "17:45",
+"time": "17:50",
 "title": "Poznaj swojego teścia",
 "lang": "DUB",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/97481"
 },
 {
 "date": "2026-11-27",
-"time": "20:15",
+"time": "20:20",
 "title": "Poznaj swojego teścia",
 "lang": "NAP",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/97482"
