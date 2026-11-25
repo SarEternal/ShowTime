@@ -1,130 +1,10 @@
 {
-"updated": "2026-11-24T14:59:44+00:00",
+"updated": "2026-11-25T00:58:01+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
 "city": "Jarosław",
 "shows": [
-{
-"id": "62090",
-"date": "2026-11-24",
-"time": "16:45",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62090&typetran=0",
-"room": 1,
-"free": 162,
-"total": 164
-},
-{
-"id": "62100",
-"date": "2026-11-24",
-"time": "17:00",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62100&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62110",
-"date": "2026-11-24",
-"time": "17:15",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62110&typetran=0",
-"room": 5,
-"free": 152,
-"total": 157
-},
-{
-"id": "62095",
-"date": "2026-11-24",
-"time": "17:30",
-"title": "NASZA REWOLUCJA",
-"lang": "ORYG",
-"min": 126,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62095&typetran=0",
-"room": 2,
-"free": 120,
-"total": 142
-},
-{
-"id": "62105",
-"date": "2026-11-24",
-"time": "17:45",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62105&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "62101",
-"date": "2026-11-24",
-"time": "19:30",
-"title": "NASZA REWOLUCJA",
-"lang": "ORYG",
-"min": 126,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62101&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62111",
-"date": "2026-11-24",
-"time": "19:45",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "NAP",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62111&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "62091",
-"date": "2026-11-24",
-"time": "20:00",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "NAP",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62091&typetran=0",
-"room": 1,
-"free": 151,
-"total": 164
-},
-{
-"id": "62096",
-"date": "2026-11-24",
-"time": "20:10",
-"title": "PRZEPIS NA ŚWIĘTA",
-"lang": "ORYG",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62096&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62106",
-"date": "2026-11-24",
-"time": "20:15",
-"title": "JAK OBRABOWAĆ BANK",
-"lang": "NAP",
-"min": 122,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62106&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
 {
 "id": "62121",
 "date": "2026-11-25",
@@ -302,7 +182,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62114&typetran=0",
 "room": 1,
-"free": 164,
+"free": 157,
 "total": 164
 },
 {
@@ -386,7 +266,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62115&typetran=0",
 "room": 1,
-"free": 158,
+"free": 156,
 "total": 164
 },
 {
@@ -674,7 +554,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62139&typetran=0",
 "room": 1,
-"free": 162,
+"free": 160,
 "total": 164
 },
 {
@@ -686,7 +566,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62144&typetran=0",
 "room": 2,
-"free": 122,
+"free": 119,
 "total": 142
 },
 {
@@ -702,6 +582,2010 @@
 "total": 142
 },
 {
+"id": "62161",
+"date": "2026-11-27",
+"time": "10:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62161&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62174",
+"date": "2026-11-27",
+"time": "10:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62174&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62165",
+"date": "2026-11-27",
+"time": "10:15",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62165&typetran=0",
+"room": 2,
+"free": 93,
+"total": 142
+},
+{
+"id": "62179",
+"date": "2026-11-27",
+"time": "10:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62179&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62170",
+"date": "2026-11-27",
+"time": "11:00",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62170&typetran=0",
+"room": 3,
+"free": 94,
+"total": 130
+},
+{
+"id": "62166",
+"date": "2026-11-27",
+"time": "12:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62166&typetran=0",
+"room": 2,
+"free": 95,
+"total": 142
+},
+{
+"id": "62175",
+"date": "2026-11-27",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62175&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62180",
+"date": "2026-11-27",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62180&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62162",
+"date": "2026-11-27",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62162&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62176",
+"date": "2026-11-27",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62176&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62171",
+"date": "2026-11-27",
+"time": "14:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62171&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62167",
+"date": "2026-11-27",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62167&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62181",
+"date": "2026-11-27",
+"time": "15:40",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62181&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62163",
+"date": "2026-11-27",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62163&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62177",
+"date": "2026-11-27",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62177&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62172",
+"date": "2026-11-27",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62172&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62168",
+"date": "2026-11-27",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62168&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62182",
+"date": "2026-11-27",
+"time": "18:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62182&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62173",
+"date": "2026-11-27",
+"time": "19:40",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "NAP",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62173&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62178",
+"date": "2026-11-27",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62178&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62164",
+"date": "2026-11-27",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62164&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62169",
+"date": "2026-11-27",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62169&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62183",
+"date": "2026-11-27",
+"time": "20:20",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62183&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62184",
+"date": "2026-11-28",
+"time": "10:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62184&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62193",
+"date": "2026-11-28",
+"time": "10:00",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62193&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62198",
+"date": "2026-11-28",
+"time": "10:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62198&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62188",
+"date": "2026-11-28",
+"time": "10:15",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62188&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62203",
+"date": "2026-11-28",
+"time": "10:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62203&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62194",
+"date": "2026-11-28",
+"time": "12:30",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62194&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62199",
+"date": "2026-11-28",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62199&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62189",
+"date": "2026-11-28",
+"time": "12:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62189&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62204",
+"date": "2026-11-28",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62204&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62185",
+"date": "2026-11-28",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62185&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62200",
+"date": "2026-11-28",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62200&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62195",
+"date": "2026-11-28",
+"time": "14:55",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62195&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62190",
+"date": "2026-11-28",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62190&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62205",
+"date": "2026-11-28",
+"time": "15:40",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62205&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62186",
+"date": "2026-11-28",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62186&typetran=0",
+"room": 1,
+"free": 162,
+"total": 164
+},
+{
+"id": "62201",
+"date": "2026-11-28",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62201&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62196",
+"date": "2026-11-28",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62196&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62191",
+"date": "2026-11-28",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62191&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62206",
+"date": "2026-11-28",
+"time": "18:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62206&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62197",
+"date": "2026-11-28",
+"time": "19:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "NAP",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62197&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62202",
+"date": "2026-11-28",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62202&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62187",
+"date": "2026-11-28",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62187&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62192",
+"date": "2026-11-28",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62192&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62207",
+"date": "2026-11-28",
+"time": "20:20",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62207&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62208",
+"date": "2026-11-29",
+"time": "10:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62208&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62217",
+"date": "2026-11-29",
+"time": "10:00",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62217&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62222",
+"date": "2026-11-29",
+"time": "10:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62222&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62212",
+"date": "2026-11-29",
+"time": "10:15",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62212&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62227",
+"date": "2026-11-29",
+"time": "10:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62227&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62218",
+"date": "2026-11-29",
+"time": "12:30",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62218&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62223",
+"date": "2026-11-29",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62223&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62213",
+"date": "2026-11-29",
+"time": "12:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62213&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62228",
+"date": "2026-11-29",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62228&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62209",
+"date": "2026-11-29",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62209&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62224",
+"date": "2026-11-29",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62224&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62219",
+"date": "2026-11-29",
+"time": "14:55",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62219&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62214",
+"date": "2026-11-29",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62214&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62229",
+"date": "2026-11-29",
+"time": "15:40",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62229&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62210",
+"date": "2026-11-29",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62210&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62225",
+"date": "2026-11-29",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62225&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62220",
+"date": "2026-11-29",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62220&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62215",
+"date": "2026-11-29",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62215&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62230",
+"date": "2026-11-29",
+"time": "18:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62230&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62221",
+"date": "2026-11-29",
+"time": "19:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62221&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62226",
+"date": "2026-11-29",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62226&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62211",
+"date": "2026-11-29",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62211&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62216",
+"date": "2026-11-29",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62216&typetran=0",
+"room": 2,
+"free": 122,
+"total": 142
+},
+{
+"id": "62231",
+"date": "2026-11-29",
+"time": "20:20",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62231&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62232",
+"date": "2026-11-30",
+"time": "09:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62232&typetran=0",
+"room": 1,
+"free": 127,
+"total": 164
+},
+{
+"id": "62241",
+"date": "2026-11-30",
+"time": "10:00",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62241&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62246",
+"date": "2026-11-30",
+"time": "10:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62246&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62236",
+"date": "2026-11-30",
+"time": "10:15",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62236&typetran=0",
+"room": 2,
+"free": 126,
+"total": 142
+},
+{
+"id": "62251",
+"date": "2026-11-30",
+"time": "10:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62251&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62242",
+"date": "2026-11-30",
+"time": "12:30",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62242&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62247",
+"date": "2026-11-30",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62247&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62237",
+"date": "2026-11-30",
+"time": "12:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62237&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62252",
+"date": "2026-11-30",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62252&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62233",
+"date": "2026-11-30",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62233&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62248",
+"date": "2026-11-30",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62248&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62243",
+"date": "2026-11-30",
+"time": "14:55",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62243&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62238",
+"date": "2026-11-30",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62238&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62253",
+"date": "2026-11-30",
+"time": "16:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62253&typetran=0",
+"room": 5,
+"free": 149,
+"total": 157
+},
+{
+"id": "62234",
+"date": "2026-11-30",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62234&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62249",
+"date": "2026-11-30",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62249&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62244",
+"date": "2026-11-30",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62244&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62239",
+"date": "2026-11-30",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62239&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62254",
+"date": "2026-11-30",
+"time": "18:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62254&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62245",
+"date": "2026-11-30",
+"time": "19:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "NAP",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62245&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62250",
+"date": "2026-11-30",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62250&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62235",
+"date": "2026-11-30",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62235&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62240",
+"date": "2026-11-30",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62240&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62255",
+"date": "2026-11-30",
+"time": "20:50",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62255&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62270",
+"date": "2026-12-01",
+"time": "09:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62270&typetran=0",
+"room": 4,
+"free": 69,
+"total": 142
+},
+{
+"id": "62265",
+"date": "2026-12-01",
+"time": "09:30",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62265&typetran=0",
+"room": 3,
+"free": 76,
+"total": 130
+},
+{
+"id": "62256",
+"date": "2026-12-01",
+"time": "10:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62256&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62260",
+"date": "2026-12-01",
+"time": "10:15",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62260&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62275",
+"date": "2026-12-01",
+"time": "10:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62275&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62266",
+"date": "2026-12-01",
+"time": "12:30",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62266&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62271",
+"date": "2026-12-01",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62271&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62261",
+"date": "2026-12-01",
+"time": "12:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62261&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62276",
+"date": "2026-12-01",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62276&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62257",
+"date": "2026-12-01",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62257&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62272",
+"date": "2026-12-01",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62272&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62267",
+"date": "2026-12-01",
+"time": "14:55",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62267&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62262",
+"date": "2026-12-01",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62262&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62277",
+"date": "2026-12-01",
+"time": "15:40",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62277&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62258",
+"date": "2026-12-01",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62258&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62273",
+"date": "2026-12-01",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62273&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62268",
+"date": "2026-12-01",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62268&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62263",
+"date": "2026-12-01",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62263&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62278",
+"date": "2026-12-01",
+"time": "18:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62278&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62269",
+"date": "2026-12-01",
+"time": "19:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "NAP",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62269&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62274",
+"date": "2026-12-01",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62274&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62259",
+"date": "2026-12-01",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62259&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62264",
+"date": "2026-12-01",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62264&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62279",
+"date": "2026-12-01",
+"time": "20:20",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62279&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62284",
+"date": "2026-12-02",
+"time": "09:15",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62284&typetran=0",
+"room": 2,
+"free": 99,
+"total": 142
+},
+{
+"id": "62294",
+"date": "2026-12-02",
+"time": "09:30",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62294&typetran=0",
+"room": 4,
+"free": 127,
+"total": 142
+},
+{
+"id": "62280",
+"date": "2026-12-02",
+"time": "10:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62280&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62289",
+"date": "2026-12-02",
+"time": "10:00",
+"title": "KPS PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62289&typetran=0",
+"room": 3,
+"free": 73,
+"total": 130
+},
+{
+"id": "62299",
+"date": "2026-12-02",
+"time": "10:15",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62299&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62290",
+"date": "2026-12-02",
+"time": "12:30",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62290&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62295",
+"date": "2026-12-02",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62295&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62285",
+"date": "2026-12-02",
+"time": "12:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62285&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62300",
+"date": "2026-12-02",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62300&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62281",
+"date": "2026-12-02",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62281&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62296",
+"date": "2026-12-02",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62296&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62291",
+"date": "2026-12-02",
+"time": "14:55",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62291&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62286",
+"date": "2026-12-02",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62286&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62301",
+"date": "2026-12-02",
+"time": "15:40",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62301&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62282",
+"date": "2026-12-02",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62282&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62297",
+"date": "2026-12-02",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62297&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62292",
+"date": "2026-12-02",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62292&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62287",
+"date": "2026-12-02",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62287&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62302",
+"date": "2026-12-02",
+"time": "18:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62302&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62293",
+"date": "2026-12-02",
+"time": "19:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "NAP",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62293&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62298",
+"date": "2026-12-02",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62298&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62283",
+"date": "2026-12-02",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62283&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62288",
+"date": "2026-12-02",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62288&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62303",
+"date": "2026-12-02",
+"time": "20:20",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62303&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62323",
+"date": "2026-12-03",
+"time": "09:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62323&typetran=0",
+"room": 5,
+"free": 124,
+"total": 157
+},
+{
+"id": "62318",
+"date": "2026-12-03",
+"time": "09:30",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62318&typetran=0",
+"room": 4,
+"free": 9,
+"total": 142
+},
+{
+"id": "62308",
+"date": "2026-12-03",
+"time": "09:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62308&typetran=0",
+"room": 2,
+"free": 118,
+"total": 142
+},
+{
+"id": "62304",
+"date": "2026-12-03",
+"time": "10:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62304&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62313",
+"date": "2026-12-03",
+"time": "10:00",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62313&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62314",
+"date": "2026-12-03",
+"time": "12:30",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62314&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62319",
+"date": "2026-12-03",
+"time": "12:40",
+"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
+"lang": "DUB",
+"min": 80,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62319&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62309",
+"date": "2026-12-03",
+"time": "12:45",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62309&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62324",
+"date": "2026-12-03",
+"time": "13:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62324&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62305",
+"date": "2026-12-03",
+"time": "13:30",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "DUB",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62305&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62320",
+"date": "2026-12-03",
+"time": "14:30",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62320&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62315",
+"date": "2026-12-03",
+"time": "14:55",
+"title": "KOT PROT",
+"lang": "DUB",
+"min": 107,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62315&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62310",
+"date": "2026-12-03",
+"time": "15:00",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "DUB",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62310&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62325",
+"date": "2026-12-03",
+"time": "15:40",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62325&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62306",
+"date": "2026-12-03",
+"time": "16:45",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62306&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62321",
+"date": "2026-12-03",
+"time": "17:00",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62321&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62316",
+"date": "2026-12-03",
+"time": "17:15",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "DUB",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62316&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62311",
+"date": "2026-12-03",
+"time": "17:30",
+"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
+"lang": "DUB",
+"min": 105,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62311&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62326",
+"date": "2026-12-03",
+"time": "18:00",
+"title": "HOKUS: KRÓLESTWO MAGII",
+"lang": "DUB",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62326&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
+"id": "62317",
+"date": "2026-12-03",
+"time": "19:45",
+"title": "POZNAJ SWOJEGO TEŚCIA",
+"lang": "NAP",
+"min": 106,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62317&typetran=0",
+"room": 3,
+"free": 130,
+"total": 130
+},
+{
+"id": "62322",
+"date": "2026-12-03",
+"time": "19:45",
+"title": "VIOLETTA VILLAS",
+"lang": "ORYG",
+"min": 135,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62322&typetran=0",
+"room": 4,
+"free": 142,
+"total": 142
+},
+{
+"id": "62307",
+"date": "2026-12-03",
+"time": "20:00",
+"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
+"lang": "NAP",
+"min": 158,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62307&typetran=0",
+"room": 1,
+"free": 164,
+"total": 164
+},
+{
+"id": "62312",
+"date": "2026-12-03",
+"time": "20:10",
+"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
+"lang": "NAP",
+"min": 116,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62312&typetran=0",
+"room": 2,
+"free": 142,
+"total": 142
+},
+{
+"id": "62327",
+"date": "2026-12-03",
+"time": "20:20",
+"title": "PRZEPIS NA ŚWIĘTA",
+"lang": "ORYG",
+"min": 110,
+"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62327&typetran=0",
+"room": 5,
+"free": 157,
+"total": 157
+},
+{
 "id": "61978",
 "date": "2026-12-13",
 "time": "15:00",
@@ -710,7 +2594,7 @@
 "min": 170,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61978&typetran=0",
 "room": 4,
-"free": 127,
+"free": 119,
 "total": 142
 },
 {
@@ -722,7 +2606,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61980&typetran=0",
 "room": 2,
-"free": 139,
+"free": 134,
 "total": 142
 },
 {
@@ -746,7 +2630,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61982&typetran=0",
 "room": 2,
-"free": 79,
+"free": 77,
 "total": 142
 },
 {
@@ -794,7 +2678,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61986&typetran=0",
 "room": 1,
-"free": 133,
+"free": 129,
 "total": 164
 },
 {
@@ -818,7 +2702,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61988&typetran=0",
 "room": 1,
-"free": 144,
+"free": 140,
 "total": 164
 },
 {
@@ -830,7 +2714,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61989&typetran=0",
 "room": 2,
-"free": 122,
+"free": 121,
 "total": 142
 },
 {
@@ -875,265 +2759,6 @@
 "name": "Multikino Millennium Hall",
 "city": "Rzeszów",
 "shows": [
-{
-"date": "2026-11-24",
-"time": "10:00",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98297"
-},
-{
-"date": "2026-11-24",
-"time": "10:40",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98203"
-},
-{
-"date": "2026-11-24",
-"time": "12:10",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98379"
-},
-{
-"date": "2026-11-24",
-"time": "13:20",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98296"
-},
-{
-"date": "2026-11-24",
-"time": "14:00",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98205"
-},
-{
-"date": "2026-11-24",
-"time": "15:40",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98377"
-},
-{
-"date": "2026-11-24",
-"time": "16:40",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98295"
-},
-{
-"date": "2026-11-24",
-"time": "17:30",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98204"
-},
-{
-"date": "2026-11-24",
-"time": "19:00",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98380"
-},
-{
-"date": "2026-11-24",
-"time": "20:10",
-"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98294"
-},
-{
-"date": "2026-11-24",
-"time": "11:45",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98234"
-},
-{
-"date": "2026-11-24",
-"time": "13:20",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98331"
-},
-{
-"date": "2026-11-24",
-"time": "14:30",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98235"
-},
-{
-"date": "2026-11-24",
-"time": "16:00",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98329"
-},
-{
-"date": "2026-11-24",
-"time": "17:20",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98238"
-},
-{
-"date": "2026-11-24",
-"time": "18:40",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98327"
-},
-{
-"date": "2026-11-24",
-"time": "20:10",
-"title": "Ebenezer Scrooge. Opowieść wigilijna",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98184"
-},
-{
-"date": "2026-11-24",
-"time": "10:40",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98411"
-},
-{
-"date": "2026-11-24",
-"time": "13:10",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98413"
-},
-{
-"date": "2026-11-24",
-"time": "15:40",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98409"
-},
-{
-"date": "2026-11-24",
-"time": "18:10",
-"title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98408"
-},
-{
-"date": "2026-11-24",
-"time": "10:30",
-"title": "Kot Prot",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98358"
-},
-{
-"date": "2026-11-24",
-"time": "13:00",
-"title": "Kot Prot",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98357"
-},
-{
-"date": "2026-11-24",
-"time": "15:30",
-"title": "Kot Prot",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98359"
-},
-{
-"date": "2026-11-24",
-"time": "17:00",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98268"
-},
-{
-"date": "2026-11-24",
-"time": "19:50",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98271"
-},
-{
-"date": "2026-11-24",
-"time": "21:15",
-"title": "Nasza rewolucja",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98330"
-},
-{
-"date": "2026-11-24",
-"time": "14:10",
-"title": "Jestem Rocky",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98269"
-},
-{
-"date": "2026-11-24",
-"time": "17:10",
-"title": "Jestem Rocky",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98185"
-},
-{
-"date": "2026-11-24",
-"time": "20:35",
-"title": "Jestem Rocky",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98410"
-},
-{
-"date": "2026-11-24",
-"time": "10:00",
-"title": "Lalka",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98270"
-},
-{
-"date": "2026-11-24",
-"time": "20:20",
-"title": "Lalka",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98360"
-},
-{
-"date": "2026-11-24",
-"time": "18:00",
-"title": "McQueen",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00000168/98356"
-},
-{
-"date": "2026-11-24",
-"time": "13:30",
-"title": "Zobaczysz wszystko",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002997/98182"
-},
-{
-"date": "2026-11-24",
-"time": "20:30",
-"title": "Tede. Forever Rap",
-"lang": "",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003009/98236"
-},
-{
-"date": "2026-11-24",
-"time": "10:15",
-"title": "Niesamowite przygody skarpetek 4: Do roboty!",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002905/98183"
-},
-{
-"date": "2026-11-24",
-"time": "20:55",
-"title": "Dziki Koń Dziewięć",
-"lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002714/98206"
-},
 {
 "date": "2026-11-25",
 "time": "10:40",
@@ -1661,31 +3286,199 @@
 },
 {
 "date": "2026-11-27",
+"time": "10:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98745"
+},
+{
+"date": "2026-11-27",
+"time": "12:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98974"
+},
+{
+"date": "2026-11-27",
+"time": "13:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98746"
+},
+{
+"date": "2026-11-27",
+"time": "15:05",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99002"
+},
+{
+"date": "2026-11-27",
+"time": "16:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98972"
+},
+{
+"date": "2026-11-27",
+"time": "17:00",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98747"
+},
+{
+"date": "2026-11-27",
+"time": "18:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99005"
+},
+{
+"date": "2026-11-27",
+"time": "19:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98971"
+},
+{
+"date": "2026-11-27",
+"time": "20:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98748"
+},
+{
+"date": "2026-11-27",
+"time": "09:15",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98973"
+},
+{
+"date": "2026-11-27",
+"time": "11:15",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98942"
+},
+{
+"date": "2026-11-27",
+"time": "13:40",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98844"
+},
+{
+"date": "2026-11-27",
+"time": "16:20",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98845"
+},
+{
+"date": "2026-11-27",
+"time": "17:50",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98779"
+},
+{
+"date": "2026-11-27",
+"time": "19:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98843"
+},
+{
+"date": "2026-11-27",
+"time": "10:10",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98777"
+},
+{
+"date": "2026-11-27",
 "time": "11:00",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98133"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98816"
 },
 {
 "date": "2026-11-27",
 "time": "13:30",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98135"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98815"
+},
+{
+"date": "2026-11-27",
+"time": "15:25",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98780"
 },
 {
 "date": "2026-11-27",
 "time": "16:00",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98134"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98814"
 },
 {
 "date": "2026-11-27",
 "time": "18:30",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98132"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98812"
+},
+{
+"date": "2026-11-27",
+"time": "10:30",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98878"
+},
+{
+"date": "2026-11-27",
+"time": "13:00",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98882"
+},
+{
+"date": "2026-11-27",
+"time": "15:30",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98880"
+},
+{
+"date": "2026-11-27",
+"time": "18:00",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98879"
+},
+{
+"date": "2026-11-27",
+"time": "10:00",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/98915"
+},
+{
+"date": "2026-11-27",
+"time": "11:25",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99001"
+},
+{
+"date": "2026-11-27",
+"time": "13:15",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99004"
 },
 {
 "date": "2026-11-27",
@@ -1700,6 +3493,160 @@
 "title": "Poznaj swojego teścia",
 "lang": "NAP",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/97482"
+},
+{
+"date": "2026-11-27",
+"time": "12:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98914"
+},
+{
+"date": "2026-11-27",
+"time": "21:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98813"
+},
+{
+"date": "2026-11-27",
+"time": "14:50",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98916"
+},
+{
+"date": "2026-11-27",
+"time": "20:30",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98776"
+},
+{
+"date": "2026-11-27",
+"time": "17:25",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98944"
+},
+{
+"date": "2026-11-27",
+"time": "20:20",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98943"
+},
+{
+"date": "2026-11-27",
+"time": "20:30",
+"title": "Zobaczysz wszystko",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002997/98881"
+},
+{
+"date": "2026-11-27",
+"time": "21:45",
+"title": "Tede. Forever Rap",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003009/99003"
+},
+{
+"date": "2026-11-27",
+"time": "09:00",
+"title": "Niesamowite przygody skarpetek 4: Do roboty!",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002905/98846"
+},
+{
+"date": "2026-11-27",
+"time": "11:00",
+"title": "Kot Prot",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98847"
+},
+{
+"date": "2026-11-27",
+"time": "21:40",
+"title": "Przepis na święta",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98842"
+},
+{
+"date": "2026-11-27",
+"time": "13:55",
+"title": "Lalka",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98945"
+},
+{
+"date": "2026-11-27",
+"time": "12:45",
+"title": "Klara i słońce",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002987/98778"
+},
+{
+"date": "2026-11-28",
+"time": "10:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98763"
+},
+{
+"date": "2026-11-28",
+"time": "12:45",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98987"
+},
+{
+"date": "2026-11-28",
+"time": "13:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98761"
+},
+{
+"date": "2026-11-28",
+"time": "16:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98989"
+},
+{
+"date": "2026-11-28",
+"time": "17:00",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98762"
+},
+{
+"date": "2026-11-28",
+"time": "18:50",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99021"
+},
+{
+"date": "2026-11-28",
+"time": "19:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98988"
+},
+{
+"date": "2026-11-28",
+"time": "20:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98764"
+},
+{
+"date": "2026-11-28",
+"time": "10:20",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98864"
 },
 {
 "date": "2026-11-28",
@@ -1717,6 +3664,13 @@
 },
 {
 "date": "2026-11-28",
+"time": "15:10",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98865"
+},
+{
+"date": "2026-11-28",
 "time": "16:00",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
@@ -1727,7 +3681,91 @@
 "time": "18:30",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98138"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98832"
+},
+{
+"date": "2026-11-28",
+"time": "10:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98797"
+},
+{
+"date": "2026-11-28",
+"time": "12:40",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98799"
+},
+{
+"date": "2026-11-28",
+"time": "15:20",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98798"
+},
+{
+"date": "2026-11-28",
+"time": "18:05",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98796"
+},
+{
+"date": "2026-11-28",
+"time": "20:45",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98800"
+},
+{
+"date": "2026-11-28",
+"time": "10:20",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98898"
+},
+{
+"date": "2026-11-28",
+"time": "12:50",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98901"
+},
+{
+"date": "2026-11-28",
+"time": "15:20",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98902"
+},
+{
+"date": "2026-11-28",
+"time": "17:55",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98899"
+},
+{
+"date": "2026-11-28",
+"time": "10:05",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/98931"
+},
+{
+"date": "2026-11-28",
+"time": "11:10",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99022"
+},
+{
+"date": "2026-11-28",
+"time": "13:10",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99023"
 },
 {
 "date": "2026-11-28",
@@ -1745,38 +3783,276 @@
 },
 {
 "date": "2026-11-28",
+"time": "12:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98930"
+},
+{
+"date": "2026-11-28",
+"time": "21:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98831"
+},
+{
+"date": "2026-11-28",
+"time": "14:50",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98929"
+},
+{
+"date": "2026-11-28",
+"time": "20:25",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98900"
+},
+{
+"date": "2026-11-28",
+"time": "17:05",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98960"
+},
+{
+"date": "2026-11-28",
+"time": "20:10",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98867"
+},
+{
+"date": "2026-11-28",
 "time": "15:00",
 "title": "Skrzypek na dachu",
 "lang": "NAP",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003024/97475"
 },
 {
+"date": "2026-11-28",
+"time": "20:05",
+"title": "Zobaczysz wszystko",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002997/98961"
+},
+{
+"date": "2026-11-28",
+"time": "14:35",
+"title": "Kot Prot",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98959"
+},
+{
+"date": "2026-11-28",
+"time": "17:35",
+"title": "Przepis na święta",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98866"
+},
+{
+"date": "2026-11-28",
+"time": "11:05",
+"title": "Lalka",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98962"
+},
+{
+"date": "2026-11-28",
+"time": "12:50",
+"title": "Asteriks i Obeliks: Królestwo Nubii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002853/98863"
+},
+{
+"date": "2026-11-29",
+"time": "10:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98751"
+},
+{
+"date": "2026-11-29",
+"time": "12:45",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98976"
+},
+{
+"date": "2026-11-29",
+"time": "13:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98749"
+},
+{
+"date": "2026-11-29",
+"time": "16:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98978"
+},
+{
+"date": "2026-11-29",
+"time": "17:00",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98750"
+},
+{
+"date": "2026-11-29",
+"time": "18:05",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99007"
+},
+{
+"date": "2026-11-29",
+"time": "19:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98977"
+},
+{
+"date": "2026-11-29",
+"time": "20:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98752"
+},
+{
+"date": "2026-11-29",
+"time": "10:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98851"
+},
+{
 "date": "2026-11-29",
 "time": "11:00",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98143"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98820"
 },
 {
 "date": "2026-11-29",
 "time": "13:30",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98142"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98817"
+},
+{
+"date": "2026-11-29",
+"time": "15:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98850"
 },
 {
 "date": "2026-11-29",
 "time": "16:00",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98141"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98818"
+},
+{
+"date": "2026-11-29",
+"time": "17:30",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98848"
 },
 {
 "date": "2026-11-29",
 "time": "18:30",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98140"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98819"
+},
+{
+"date": "2026-11-29",
+"time": "10:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98784"
+},
+{
+"date": "2026-11-29",
+"time": "12:40",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98781"
+},
+{
+"date": "2026-11-29",
+"time": "15:20",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98785"
+},
+{
+"date": "2026-11-29",
+"time": "18:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98782"
+},
+{
+"date": "2026-11-29",
+"time": "20:40",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98783"
+},
+{
+"date": "2026-11-29",
+"time": "10:20",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98887"
+},
+{
+"date": "2026-11-29",
+"time": "12:50",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98885"
+},
+{
+"date": "2026-11-29",
+"time": "15:20",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98886"
+},
+{
+"date": "2026-11-29",
+"time": "17:50",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98884"
+},
+{
+"date": "2026-11-29",
+"time": "10:05",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/98920"
+},
+{
+"date": "2026-11-29",
+"time": "11:10",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99009"
+},
+{
+"date": "2026-11-29",
+"time": "13:05",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99008"
 },
 {
 "date": "2026-11-29",
@@ -1790,7 +4066,658 @@
 "time": "20:15",
 "title": "Poznaj swojego teścia",
 "lang": "NAP",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98146"
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98917"
+},
+{
+"date": "2026-11-29",
+"time": "12:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98919"
+},
+{
+"date": "2026-11-29",
+"time": "21:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98821"
+},
+{
+"date": "2026-11-29",
+"time": "11:05",
+"title": "Lalka",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98948"
+},
+{
+"date": "2026-11-29",
+"time": "20:00",
+"title": "Lalka",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98849"
+},
+{
+"date": "2026-11-29",
+"time": "17:05",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98947"
+},
+{
+"date": "2026-11-29",
+"time": "20:20",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98883"
+},
+{
+"date": "2026-11-29",
+"time": "20:05",
+"title": "Zobaczysz wszystko",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002997/98949"
+},
+{
+"date": "2026-11-29",
+"time": "14:35",
+"title": "Kot Prot",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98946"
+},
+{
+"date": "2026-11-29",
+"time": "21:25",
+"title": "Przepis na święta",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/99006"
+},
+{
+"date": "2026-11-29",
+"time": "12:35",
+"title": "Asteriks i Obeliks: Królestwo Nubii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002853/98852"
+},
+{
+"date": "2026-11-29",
+"time": "14:50",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98918"
+},
+{
+"date": "2026-11-30",
+"time": "10:05",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98862"
+},
+{
+"date": "2026-11-30",
+"time": "12:45",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98986"
+},
+{
+"date": "2026-11-30",
+"time": "13:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98759"
+},
+{
+"date": "2026-11-30",
+"time": "15:05",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99017"
+},
+{
+"date": "2026-11-30",
+"time": "16:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98983"
+},
+{
+"date": "2026-11-30",
+"time": "17:00",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98758"
+},
+{
+"date": "2026-11-30",
+"time": "18:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99019"
+},
+{
+"date": "2026-11-30",
+"time": "19:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98985"
+},
+{
+"date": "2026-11-30",
+"time": "20:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98760"
+},
+{
+"date": "2026-11-30",
+"time": "10:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98795"
+},
+{
+"date": "2026-11-30",
+"time": "11:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98826"
+},
+{
+"date": "2026-11-30",
+"time": "13:30",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98830"
+},
+{
+"date": "2026-11-30",
+"time": "15:20",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98791"
+},
+{
+"date": "2026-11-30",
+"time": "16:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98828"
+},
+{
+"date": "2026-11-30",
+"time": "17:45",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98794"
+},
+{
+"date": "2026-11-30",
+"time": "18:30",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98829"
+},
+{
+"date": "2026-11-30",
+"time": "10:30",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98955"
+},
+{
+"date": "2026-11-30",
+"time": "13:00",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98956"
+},
+{
+"date": "2026-11-30",
+"time": "15:30",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98958"
+},
+{
+"date": "2026-11-30",
+"time": "18:00",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98954"
+},
+{
+"date": "2026-11-30",
+"time": "10:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98757"
+},
+{
+"date": "2026-11-30",
+"time": "12:30",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98793"
+},
+{
+"date": "2026-11-30",
+"time": "16:20",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98861"
+},
+{
+"date": "2026-11-30",
+"time": "19:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98858"
+},
+{
+"date": "2026-11-30",
+"time": "10:05",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/98895"
+},
+{
+"date": "2026-11-30",
+"time": "11:25",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99020"
+},
+{
+"date": "2026-11-30",
+"time": "13:15",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99016"
+},
+{
+"date": "2026-11-30",
+"time": "10:15",
+"title": "Kot Prot",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98984"
+},
+{
+"date": "2026-11-30",
+"time": "14:20",
+"title": "Kot Prot",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98927"
+},
+{
+"date": "2026-11-30",
+"time": "17:50",
+"title": "Poznaj swojego teścia",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98897"
+},
+{
+"date": "2026-11-30",
+"time": "20:20",
+"title": "Poznaj swojego teścia",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98896"
+},
+{
+"date": "2026-11-30",
+"time": "13:50",
+"title": "Przepis na święta",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98859"
+},
+{
+"date": "2026-11-30",
+"time": "21:40",
+"title": "Przepis na święta",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98860"
+},
+{
+"date": "2026-11-30",
+"time": "12:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98894"
+},
+{
+"date": "2026-11-30",
+"time": "21:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98827"
+},
+{
+"date": "2026-11-30",
+"time": "14:50",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98893"
+},
+{
+"date": "2026-11-30",
+"time": "20:30",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98957"
+},
+{
+"date": "2026-11-30",
+"time": "16:50",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98926"
+},
+{
+"date": "2026-11-30",
+"time": "20:15",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98792"
+},
+{
+"date": "2026-11-30",
+"time": "21:45",
+"title": "Tede. Forever Rap",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003009/99018"
+},
+{
+"date": "2026-11-30",
+"time": "10:15",
+"title": "Lalka",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98928"
+},
+{
+"date": "2026-12-01",
+"time": "10:00",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98855"
+},
+{
+"date": "2026-12-01",
+"time": "12:40",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98979"
+},
+{
+"date": "2026-12-01",
+"time": "13:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98754"
+},
+{
+"date": "2026-12-01",
+"time": "15:05",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99010"
+},
+{
+"date": "2026-12-01",
+"time": "16:10",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98980"
+},
+{
+"date": "2026-12-01",
+"time": "17:00",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98753"
+},
+{
+"date": "2026-12-01",
+"time": "18:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/99015"
+},
+{
+"date": "2026-12-01",
+"time": "19:35",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98982"
+},
+{
+"date": "2026-12-01",
+"time": "20:25",
+"title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98756"
+},
+{
+"date": "2026-12-01",
+"time": "11:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98822"
+},
+{
+"date": "2026-12-01",
+"time": "12:50",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98786"
+},
+{
+"date": "2026-12-01",
+"time": "15:20",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98787"
+},
+{
+"date": "2026-12-01",
+"time": "16:00",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98824"
+},
+{
+"date": "2026-12-01",
+"time": "17:45",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98790"
+},
+{
+"date": "2026-12-01",
+"time": "18:30",
+"title": "Hokus: Królestwo magii",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98823"
+},
+{
+"date": "2026-12-01",
+"time": "10:15",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98889"
+},
+{
+"date": "2026-12-01",
+"time": "13:20",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98853"
+},
+{
+"date": "2026-12-01",
+"time": "15:30",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98890"
+},
+{
+"date": "2026-12-01",
+"time": "18:00",
+"title": "Struś Pędziwiatr i zemsta Kojota",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98891"
+},
+{
+"date": "2026-12-01",
+"time": "09:00",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98981"
+},
+{
+"date": "2026-12-01",
+"time": "12:45",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98892"
+},
+{
+"date": "2026-12-01",
+"time": "15:45",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98857"
+},
+{
+"date": "2026-12-01",
+"time": "18:35",
+"title": "Ebenezer Scrooge. Opowieść wigilijna",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002885/98854"
+},
+{
+"date": "2026-12-01",
+"time": "10:05",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/98922"
+},
+{
+"date": "2026-12-01",
+"time": "11:25",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99012"
+},
+{
+"date": "2026-12-01",
+"time": "13:15",
+"title": "Pikkuli i Świąteczny Renifer",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003001/99011"
+},
+{
+"date": "2026-12-01",
+"time": "17:50",
+"title": "Poznaj swojego teścia",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98923"
+},
+{
+"date": "2026-12-01",
+"time": "20:20",
+"title": "Poznaj swojego teścia",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002739/98924"
+},
+{
+"date": "2026-12-01",
+"time": "12:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98921"
+},
+{
+"date": "2026-12-01",
+"time": "21:00",
+"title": "Nasza rewolucja",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002790/98825"
+},
+{
+"date": "2026-12-01",
+"time": "14:50",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98925"
+},
+{
+"date": "2026-12-01",
+"time": "20:30",
+"title": "Jestem Rocky",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002902/98888"
+},
+{
+"date": "2026-12-01",
+"time": "15:00",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98952"
+},
+{
+"date": "2026-12-01",
+"time": "20:15",
+"title": "Violetta Villas",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002735/98788"
+},
+{
+"date": "2026-12-01",
+"time": "20:00",
+"title": "Zobaczysz wszystko",
+"lang": "NAP",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002997/98951"
+},
+{
+"date": "2026-12-01",
+"time": "21:45",
+"title": "Tede. Forever Rap",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00003009/99014"
+},
+{
+"date": "2026-12-01",
+"time": "09:50",
+"title": "Niesamowite przygody skarpetek 4: Do roboty!",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002905/99013"
+},
+{
+"date": "2026-12-01",
+"time": "10:10",
+"title": "Kot Prot",
+"lang": "DUB",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002309/98789"
+},
+{
+"date": "2026-12-01",
+"time": "21:15",
+"title": "Przepis na święta",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002839/98856"
+},
+{
+"date": "2026-12-01",
+"time": "11:30",
+"title": "Lalka",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002537/98950"
+},
+{
+"date": "2026-12-01",
+"time": "18:00",
+"title": "Wanda Rutkiewicz. Ostatnia wyprawa",
+"lang": "",
+"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00001953/98953"
 }
 ]
 }
