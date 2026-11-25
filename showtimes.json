@@ -1,106 +1,10 @@
 {
-"updated": "2026-11-25T00:58:01+00:00",
+"updated": "2026-11-25T11:33:16+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
 "city": "Jarosław",
 "shows": [
-{
-"id": "62121",
-"date": "2026-11-25",
-"time": "10:00",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62121&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62126",
-"date": "2026-11-25",
-"time": "10:00",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62126&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "62131",
-"date": "2026-11-25",
-"time": "10:00",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62131&typetran=0",
-"room": 5,
-"free": 132,
-"total": 157
-},
-{
-"id": "62112",
-"date": "2026-11-25",
-"time": "10:15",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62112&typetran=0",
-"room": 1,
-"free": 164,
-"total": 164
-},
-{
-"id": "62116",
-"date": "2026-11-25",
-"time": "10:15",
-"title": "BARANEK SHAUN I KUDŁATA BESTIA",
-"lang": "DUB",
-"min": 80,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62116&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62132",
-"date": "2026-11-25",
-"time": "12:15",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62132&typetran=0",
-"room": 2,
-"free": 93,
-"total": 142
-},
-{
-"id": "62122",
-"date": "2026-11-25",
-"time": "12:20",
-"title": "HOKUS: KRÓLESTWO MAGII",
-"lang": "DUB",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62122&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62160",
-"date": "2026-11-25",
-"time": "12:20",
-"title": "NASZA REWOLUCJA",
-"lang": "ORYG",
-"min": 126,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62160&typetran=0",
-"room": 5,
-"free": 1,
-"total": 157
-},
 {
 "id": "62127",
 "date": "2026-11-25",
@@ -206,7 +110,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62134&typetran=0",
 "room": 5,
-"free": 157,
+"free": 154,
 "total": 157
 },
 {
@@ -254,7 +158,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62135&typetran=0",
 "room": 5,
-"free": 157,
+"free": 155,
 "total": 157
 },
 {
@@ -266,7 +170,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62115&typetran=0",
 "room": 1,
-"free": 156,
+"free": 154,
 "total": 164
 },
 {
@@ -278,7 +182,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62120&typetran=0",
 "room": 2,
-"free": 116,
+"free": 114,
 "total": 142
 },
 {
@@ -734,7 +638,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62181&typetran=0",
 "room": 5,
-"free": 157,
+"free": 155,
 "total": 157
 },
 {
@@ -758,7 +662,7 @@
 "min": 135,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62177&typetran=0",
 "room": 4,
-"free": 142,
+"free": 141,
 "total": 142
 },
 {
@@ -1034,7 +938,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62186&typetran=0",
 "room": 1,
-"free": 162,
+"free": 161,
 "total": 164
 },
 {
@@ -1046,7 +950,7 @@
 "min": 135,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62201&typetran=0",
 "room": 4,
-"free": 142,
+"free": 140,
 "total": 142
 },
 {
@@ -1382,7 +1286,7 @@
 "min": 106,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62221&typetran=0",
 "room": 3,
-"free": 130,
+"free": 128,
 "total": 130
 },
 {
@@ -1478,7 +1382,7 @@
 "min": 105,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62236&typetran=0",
 "room": 2,
-"free": 126,
+"free": 78,
 "total": 142
 },
 {
@@ -2618,7 +2522,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61981&typetran=0",
 "room": 2,
-"free": 109,
+"free": 105,
 "total": 142
 },
 {
@@ -2630,7 +2534,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61982&typetran=0",
 "room": 2,
-"free": 77,
+"free": 75,
 "total": 142
 },
 {
@@ -2702,7 +2606,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61988&typetran=0",
 "room": 1,
-"free": 140,
+"free": 138,
 "total": 164
 },
 {
