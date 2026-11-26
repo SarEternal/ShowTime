@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T04:18:21+00:00",
+"updated": "2026-11-26T13:59:21+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
@@ -2802,14 +2802,14 @@
 },
 {
 "date": "2026-11-27",
-"time": "11:00",
+"time": "10:40",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98816"
 },
 {
 "date": "2026-11-27",
-"time": "13:30",
+"time": "12:50",
 "title": "Hokus: Królestwo magii",
 "lang": "DUB",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98815"
@@ -4143,13 +4143,6 @@
 "title": "Igrzyska śmierci: Wschód słońca w dniu dożynek",
 "lang": "NAP",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002525/98742"
-},
-{
-"date": "2026-12-02",
-"time": "10:40",
-"title": "Hokus: Królestwo magii",
-"lang": "DUB",
-"url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98811"
 },
 {
 "date": "2026-12-02",
