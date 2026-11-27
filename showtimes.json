@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-26T23:10:38+00:00",
+"updated": "2026-11-27T08:52:50+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
@@ -170,7 +170,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62163&typetran=0",
 "room": 1,
-"free": 160,
+"free": 159,
 "total": 164
 },
 {
@@ -182,7 +182,7 @@
 "min": 135,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62177&typetran=0",
 "room": 4,
-"free": 138,
+"free": 136,
 "total": 142
 },
 {
@@ -194,7 +194,7 @@
 "min": 106,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62172&typetran=0",
 "room": 3,
-"free": 128,
+"free": 126,
 "total": 130
 },
 {
@@ -278,7 +278,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62183&typetran=0",
 "room": 5,
-"free": 157,
+"free": 155,
 "total": 157
 },
 {
@@ -506,7 +506,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62206&typetran=0",
 "room": 5,
-"free": 157,
+"free": 154,
 "total": 157
 },
 {
@@ -1454,7 +1454,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62294&typetran=0",
 "room": 4,
-"free": 73,
+"free": 51,
 "total": 142
 },
 {
@@ -2054,7 +2054,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61982&typetran=0",
 "room": 2,
-"free": 74,
+"free": 72,
 "total": 142
 },
 {
@@ -2078,7 +2078,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61984&typetran=0",
 "room": 2,
-"free": 136,
+"free": 131,
 "total": 142
 },
 {
