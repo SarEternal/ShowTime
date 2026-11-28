@@ -1,130 +1,10 @@
 {
-"updated": "2026-11-28T02:51:28+00:00",
+"updated": "2026-11-28T13:16:43+00:00",
 "cinemas": {
 "jaroslaw": {
 "name": "Kino na Biegunach",
 "city": "Jarosław",
 "shows": [
-{
-"id": "62184",
-"date": "2026-11-28",
-"time": "10:00",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62184&typetran=0",
-"room": 1,
-"free": 163,
-"total": 164
-},
-{
-"id": "62193",
-"date": "2026-11-28",
-"time": "10:00",
-"title": "KOT PROT",
-"lang": "DUB",
-"min": 107,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62193&typetran=0",
-"room": 3,
-"free": 130,
-"total": 130
-},
-{
-"id": "62198",
-"date": "2026-11-28",
-"time": "10:00",
-"title": "EBENEZER SCROOGE. OPOWIEŚĆ WIGILIJNA",
-"lang": "DUB",
-"min": 116,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62198&typetran=0",
-"room": 4,
-"free": 139,
-"total": 142
-},
-{
-"id": "62188",
-"date": "2026-11-28",
-"time": "10:15",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62188&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62203",
-"date": "2026-11-28",
-"time": "10:15",
-"title": "HOKUS: KRÓLESTWO MAGII",
-"lang": "DUB",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62203&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "62194",
-"date": "2026-11-28",
-"time": "12:30",
-"title": "POZNAJ SWOJEGO TEŚCIA",
-"lang": "DUB",
-"min": 106,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62194&typetran=0",
-"room": 3,
-"free": 128,
-"total": 130
-},
-{
-"id": "62199",
-"date": "2026-11-28",
-"time": "12:40",
-"title": "PIKKULI I ŚWIĄTECZNY RENIFER",
-"lang": "DUB",
-"min": 80,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62199&typetran=0",
-"room": 4,
-"free": 142,
-"total": 142
-},
-{
-"id": "62189",
-"date": "2026-11-28",
-"time": "12:45",
-"title": "STRUŚ PĘDZIWIATR I ZEMSTA KOJOTA",
-"lang": "DUB",
-"min": 105,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62189&typetran=0",
-"room": 2,
-"free": 122,
-"total": 142
-},
-{
-"id": "62204",
-"date": "2026-11-28",
-"time": "13:00",
-"title": "HOKUS: KRÓLESTWO MAGII",
-"lang": "DUB",
-"min": 110,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62204&typetran=0",
-"room": 5,
-"free": 157,
-"total": 157
-},
-{
-"id": "62185",
-"date": "2026-11-28",
-"time": "13:30",
-"title": "IGRZYSKA ŚMIERCI: WSCHÓD SŁOŃCA W DNIU DOŻYNEK",
-"lang": "DUB",
-"min": 158,
-"url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62185&typetran=0",
-"room": 1,
-"free": 161,
-"total": 164
-},
 {
 "id": "62200",
 "date": "2026-11-28",
@@ -146,7 +26,7 @@
 "min": 107,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62195&typetran=0",
 "room": 3,
-"free": 130,
+"free": 122,
 "total": 130
 },
 {
@@ -158,7 +38,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62190&typetran=0",
 "room": 2,
-"free": 118,
+"free": 114,
 "total": 142
 },
 {
@@ -194,7 +74,7 @@
 "min": 135,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62201&typetran=0",
 "room": 4,
-"free": 130,
+"free": 116,
 "total": 142
 },
 {
@@ -218,7 +98,7 @@
 "min": 105,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62191&typetran=0",
 "room": 2,
-"free": 122,
+"free": 117,
 "total": 142
 },
 {
@@ -230,7 +110,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62206&typetran=0",
 "room": 5,
-"free": 157,
+"free": 154,
 "total": 157
 },
 {
@@ -254,7 +134,7 @@
 "min": 135,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62202&typetran=0",
 "room": 4,
-"free": 140,
+"free": 135,
 "total": 142
 },
 {
@@ -266,7 +146,7 @@
 "min": 158,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62187&typetran=0",
 "room": 1,
-"free": 163,
+"free": 149,
 "total": 164
 },
 {
@@ -278,7 +158,7 @@
 "min": 116,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62192&typetran=0",
 "room": 2,
-"free": 122,
+"free": 115,
 "total": 142
 },
 {
@@ -290,7 +170,7 @@
 "min": 110,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62207&typetran=0",
 "room": 5,
-"free": 151,
+"free": 149,
 "total": 157
 },
 {
@@ -374,7 +254,7 @@
 "min": 80,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62223&typetran=0",
 "room": 4,
-"free": 142,
+"free": 138,
 "total": 142
 },
 {
@@ -482,7 +362,7 @@
 "min": 135,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=62225&typetran=0",
 "room": 4,
-"free": 126,
+"free": 120,
 "total": 142
 },
 {
@@ -1778,7 +1658,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61982&typetran=0",
 "room": 2,
-"free": 74,
+"free": 73,
 "total": 142
 },
 {
@@ -1802,7 +1682,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61984&typetran=0",
 "room": 2,
-"free": 131,
+"free": 127,
 "total": 142
 },
 {
@@ -1814,7 +1694,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61985&typetran=0",
 "room": 2,
-"free": 137,
+"free": 135,
 "total": 142
 },
 {
@@ -1826,7 +1706,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61986&typetran=0",
 "room": 1,
-"free": 127,
+"free": 125,
 "total": 164
 },
 {
@@ -1862,7 +1742,7 @@
 "min": 175,
 "url": "http://jaroslaw.kinonabiegunach.pl/MSI/OrderTickets.aspx?event_id=61989&typetran=0",
 "room": 2,
-"free": 119,
+"free": 115,
 "total": 142
 },
 {
@@ -1967,7 +1847,7 @@
 "date": "2026-11-28",
 "time": "10:20",
 "title": "Hokus: Królestwo magii",
-"lang": "DUB",
+"lang": "",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002827/98864"
 },
 {
@@ -2044,7 +1924,7 @@
 "date": "2026-11-28",
 "time": "10:20",
 "title": "Struś Pędziwiatr i zemsta Kojota",
-"lang": "DUB",
+"lang": "",
 "url": "https://www.multikino.pl/rezerwacja-biletow/podsumowanie/0028/HO00002789/98898"
 },
 {
